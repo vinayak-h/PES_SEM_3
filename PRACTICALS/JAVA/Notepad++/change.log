@@ -1,0 +1,29 @@
+Notepad++ v8.5.7 bug-fixes and new features:
+
+ 1. Fix 4 security issues CVE-2023-40031, CVE-2023-40036, CVE-2023-40164 & CVE-2023-40166.
+ 2. Security enhancement: Sign uninstall.exe.
+ 3. Change the slogan in installer.
+ 4. Fix eventual memory leak while reading Utf8-16 files.
+ 5. Fix dragging tab performance issue while Document List is displayed.
+ 6. Add supperss 2GB file warning option for x64.
+ 7. Fix cloned document disassociated issue after Notepad++ being relaunched.
+ 8. Fix session file saving problem if it's read-only.
+ 9. Fix activating wrong file(s) issue after loading session file.
+10. Fix wrong product version value displayed in file's properties.
+
+
+
+Get more info on
+https://notepad-plus-plus.org/downloads/v8.5.7/
+
+
+Included plugins:
+
+1.  NppExport v0.4
+2.  Converter v4.5
+3.  Mime Tool v2.9
+
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.2.6
